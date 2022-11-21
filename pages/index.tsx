@@ -13,34 +13,34 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Chúc mừng sinh nhật <a href="https://static.tuoitre.vn/tto/i/s626/2017/05/03/ha-ma-1-1493799302.jpg">Hân Béo</a>
         </h1>
 
-        <p className={styles.description}>
+        {/* <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
-        </p>
+        </p> */}
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://www.youtube.com/watch?v=Wu8NeFXaoOc" className={styles.card}>
+            <h2>Chúc Hân ngày càng xinh xắn   &rarr;</h2>
+            <p>Nhưng đối với Quân thì Hân xinh nhất dồi.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04WCKykf7Ko_4QIvLbGhlp7Hbircn8IHuaognWiURFowJd73OaJoD9XUdYm_CR5la1-0&usqp=CAU" className={styles.card}>
+            <h2>Chúc Hân ngày càng khỏe mạnh &rarr;</h2>
+            <p>Với Quân thì Hân phải khỏe nhìu hơn, suốt ngày bịnh</p>
           </a>
 
-          <a
+          {/* <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
+          </a> */}
 
-          <a
+          {/* <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             target="_blank"
             rel="noopener noreferrer"
@@ -50,7 +50,7 @@ export default function Home() {
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
-          </a>
+          </a> */}
         </div>
       </main>
 
